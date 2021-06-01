@@ -1,0 +1,46 @@
+body {
+  background: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.list {
+  list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.link {
+  text-decoration: none;
+}
+.address {
+  font-style: normal;
+  text-decoration: none;
+}
+.title {
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.167;
+  letter-spacing: 0.05em;
+  color: #303030;
+}
